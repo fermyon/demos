@@ -19,4 +19,4 @@
     |------------------------------------------------------|--------------------------------------------------|
     
 ## Key Takeaways
-* <Bulleted list of what someone should learn from this demo
+* <Bulleted list of what someone should learn from this demo>
