@@ -1,4 +1,4 @@
-# Demo Name
+# Overview Demo
 This is intended to be basic introduction to Spin and Fermyon Cloud. This demo includes some slides to explain concepts. There is also a video of this entire demo and talk track in this directory which is also intended to be used at conference booths (with the audio off). At a conference it's intended that someone working the booth could provide the commentary when necessary, that it can be watched without audio and still get the concepts across.
 
 ## Prerequisites
