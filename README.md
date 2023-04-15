@@ -1,5 +1,7 @@
 # Demos
 
+- [Hello, Spin and Fermyon Cloud](./demos/overview/README.md)
+
 ## Summary
 
 The purpose of this repository is to provide a simple path for anyone to run a demo of Spin, Fermyon Cloud, and Spin on Kubernetes (K3d). This repository is structured with each demo in it's own folder, but should be thought of more as a tree. Anyone new to Spin should begin with the Overview demo or watch the associated recording. The remaining folders represent increasing complicated use cases, many of them building on top of each other.
