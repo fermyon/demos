@@ -8,18 +8,11 @@
   
 ## Talk Track
 
-    | Steps                                                  | Dialogue                                           |
-    | ------------------------------------------------------ | -------------------------------------------------- |
-    | * <A bulleted list of steps>                           | <Dialogue that covers a single concept/step>       |
-    | * <Which cover everything associated with the>         |                                                    |
-    | * <dialogue to the right>                              |                                                    |
-    | ------------------------------------------------------ | -------------------------------------------------- |
-    | * <Step 2>                                             | <Dialogue for Step 2>                              |
-    | ------------------------------------------------------ | -------------------------------------------------- |
-    | * <Step 3>                                             | <Dialogue for Step 3>                              |
-    | ------------------------------------------------------ | -------------------------------------------------- |
-    | * <Step 4>                                             | <Dialogue for Step 4>                              |
-    | ------------------------------------------------------ | -------------------------------------------------- |
+Alternate between text and commands. Use triple ticks ``` on lines before and after comamnds or code snippets
+
+```
+commands here
+```
 
 ## Key Takeaways
 

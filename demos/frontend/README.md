@@ -4,7 +4,6 @@ This demo showcases how to build and front-end applications with Spin.
 
 ## Prerequisites
 
-- `spin templates install --git https://github.com/radu-matei/spin-nextjs`
 - [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
   
 ## Talk Track
