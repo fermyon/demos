@@ -17,7 +17,7 @@ This repository assumes:
 It's also helpful to have the following:
 
 * A code editor such as [VSCode](https://code.visualstudio.com) with the [Spin Extension](https://marketplace.visualstudio.com/items?itemName=fermyon.spin-vscode) installed
-* For Kubernetes demo, [Docker Desktop](https://docs.docker.com/desktop/) and [K3d](https://k3d.io/) should be installed.
+* For Kubernetes demo, [Docker Desktop preview with Spin](https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/) should be installed.
 
 ## Contributing
 
