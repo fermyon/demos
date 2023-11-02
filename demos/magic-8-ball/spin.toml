@@ -1,0 +1,30 @@
+spin_manifest_version = 2
+
+[application]
+name = "magic-8-ball"
+version = "0.1.0"
+authors = ["Chris Matteson <chris.matteson@gmail.com>"]
+description = ""
+
+[[trigger.http]]
+route = "/..."
+component = "frontend"
+
+[component.frontend]
+source = "service.wasm"
+allowed_http_hosts = ["github.com", "api.github.com"]
+files = [{ source = "static", destination = "/" }]
+[component.frontend.build]
+command = "./build.sh"
+
+[[trigger.http]]
+route = "/magic-8"
+component = "backend"
+
+[component.backend]
+source = "magic-8-ball-ts/target/spin-http-js.wasm"
+ai_models = ["llama2-chat"]
+exclude_files = ["**/node_modules"]
+[component.backend.build]
+command = "npm run build"
+workdir = "magic-8-ball-ts"
